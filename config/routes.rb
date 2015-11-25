@@ -14,6 +14,7 @@ Rails.application.routes.draw do
 
   get 'about' => 'pages#about'
   get 'test' => 'pages#test'
+
  
 
   # Example of regular route:
